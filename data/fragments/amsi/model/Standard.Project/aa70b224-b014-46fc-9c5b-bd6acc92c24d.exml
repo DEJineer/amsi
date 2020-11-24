@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="amsi" version="4">
+  <OBJECT>
+    <ID name="amsi" mc="Standard.Project" uid="aa70b224-b014-46fc-9c5b-bd6acc92c24d"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[amsi]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="amsi" mc="Standard.Package" uid="d6e5d169-27c6-4fd9-aee5-9ab7270becc0"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="amsi" mc="Infrastructure.DiagramSet" uid="2377c3fc-6ed8-4153-bd2a-8f8ab3a86e02"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
